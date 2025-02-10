@@ -4,9 +4,6 @@ public class Scroller {
     private World world;
     private GreenfootImage scrollImage;
 
-    public Scroller(World world) {
-        this(world, null);
-    }
 
     public Scroller(World world, GreenfootImage image) {
         this.world = world;
@@ -16,7 +13,7 @@ public class Scroller {
         }
     }
 
-        public World getWorld() {
+    public World getWorld() {
             return this.world;
         }
 
