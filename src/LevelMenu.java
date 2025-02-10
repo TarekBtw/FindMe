@@ -5,7 +5,7 @@ public class LevelMenu extends World {
     public LevelMenu() {
         super(1680, 1080, 1);
         addObject(new FPSCounter(), 50,20);
-        setBackground("images/ezgif-frame-001.png");
+        setBackground("images/BackGround.png");
         addLogo();
         addLevelUI();
         addButtons();
