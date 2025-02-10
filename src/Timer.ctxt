@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Timer
+comment1.params=totalTime
+comment1.target=Timer(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=
+comment4.target=boolean\ isGameOver()
+numComments=5

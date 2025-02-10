@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=isWall\ isGround
+comment1.target=Tile(boolean,\ boolean)
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=
+comment3.target=boolean\ isWall()
+comment4.params=
+comment4.target=boolean\ isGround()
+numComments=5

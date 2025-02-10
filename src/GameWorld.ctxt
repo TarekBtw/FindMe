@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment1.params=totalTime\ radius
+comment1.target=GameWorld(int,\ int)
+comment10.params=
+comment10.target=void\ gameOver()
+comment11.params=
+comment11.target=void\ YouWin()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=filename
+comment3.target=void\ loadFloorsFromCSV(java.lang.String)
+comment4.params=filename
+comment4.target=void\ loadWallsFromCSV(java.lang.String)
+comment5.params=filename\ loadWalls
+comment5.target=void\ loadTilesFromCSV(java.lang.String,\ boolean)
+comment6.params=
+comment6.target=void\ addPlayer()
+comment7.params=radius
+comment7.target=void\ addOverlay(int)
+comment8.params=totaltime
+comment8.target=void\ addTimer(int)
+comment9.params=filename
+comment9.target=void\ loadObjectsFromJSON(java.lang.String)
+numComments=12

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Greenfoot lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.idea/libraries/lib" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries/lib/javafx/lib" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries/lib/stylesheets" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/threadchecker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/.idea/libraries/lib/javafx/lib" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries/sources" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.idea/libraries/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/.idea/libraries/lib/javafx/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/.idea/libraries/lib/javafx/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TargetObject
+comment1.params=
+comment1.target=TargetObject()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ updateVisibility()
+comment5.params=
+comment5.target=void\ spawnSafeLocation()
+comment6.params=x\ y
+comment6.target=boolean\ isWall(int,\ int)
+comment7.params=x\ y
+comment7.target=boolean\ isGround(int,\ int)
+numComments=8
